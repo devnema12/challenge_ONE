@@ -263,7 +263,7 @@ header img{
     }
     header img{
         margin-top: 20px;
-        margin-left: 0px;
+        margin-left: -50px;
     }
  body{
   
@@ -303,9 +303,9 @@ header img{
 }
  .contenedor-2 {
     justify-content: space-evenly;
-    margin-top: -55px;
+    margin-top: -45px;
     width: 315px; 
-    height: 530px;
+    height: 510px;
     background-color: rgb(255, 255, 255);
     border-radius:15px ;
     border: 1px solid black;
@@ -351,7 +351,7 @@ header img{
 /* display: none; */
 }
 .pie{
-    margin-top: 20px;
+    margin-top: 30px;
     color: #0A3871;
     /* border: 2px solid magenta; */
 }
